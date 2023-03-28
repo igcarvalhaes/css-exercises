@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.impares{
+    background-color: #F8A6B4;
+}
+
+#azul-grandao {
+    font-size: 36px;
+    color: rgb(28, 50, 253);
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#verde-claro-grandinho {
+    font-size: 24px;
+    background-color: rgb(127, 255, 127);
+    font-weight: bold;
+}
